@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.title-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-hero{
+   width: 50%;
+   padding-left: 45px; 
+}
+.half-hero img{
+    width: 80%;
+}
+.hire-button{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, salmon, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.top-section{
+    background-image: url(Resources/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+}   
